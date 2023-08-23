@@ -1,6 +1,6 @@
-# astro_imagesf
+# AstroImage
 
-A new Flutter project.
+A simple Flutter project by the help of which you can view the NASA image of the day.
 
 ## Getting Started
 
